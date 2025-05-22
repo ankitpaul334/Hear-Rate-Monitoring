@@ -1,12 +1,12 @@
-# 💓 Real-Time Contactless Heart Rate Monitoring Using Facial Recognition
+# Real-Time Contactless Heart Rate Monitoring Using Facial Recognition
 
-## 🔍 Project Overview
+## Project Overview
 
 This project implements a real-time, non-contact heart rate monitoring system using **facial recognition**, **Eulerian Video Magnification**, and **machine learning**. The system analyzes subtle skin tone variations caused by blood flow, captured through a video feed, and estimates the subject's heart rate. It eliminates the need for physical contact, making it ideal for telemedicine, fitness tracking, and smart healthcare applications.
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 - Real-time face detection using Haar Cascade
 - Motion stabilization and noise reduction preprocessing
@@ -17,7 +17,7 @@ This project implements a real-time, non-contact heart rate monitoring system us
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```mermaid
 graph TD
